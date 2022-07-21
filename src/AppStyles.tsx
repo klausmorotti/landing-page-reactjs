@@ -13,7 +13,7 @@ export const Container = styled.main`
 export const Article = styled.article`
     height:85vh;
     color:#FFF;
-    background-image:url('background-page.jpg');
+    background-image:url('https://images01.nicepage.com/c461c07a441a5d220e8feb1a/88e83db431e7575eaab695eb/cvcvc.jpg');
     background-position:center;
     background-size:cover;
     display: flex;

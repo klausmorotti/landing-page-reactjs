@@ -13,7 +13,7 @@ export const Container = styled.main`
 export const Article = styled.article`
     height:85vh;
     color:#FFF;
-    background-image:url('../background-page.jpg');
+    background-image:url('background-page.jpg');
     background-position:center;
     background-size:cover;
     display: flex;

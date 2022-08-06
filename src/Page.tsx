@@ -1,7 +1,5 @@
 import * as C from './AppStyles';
 
-
-
 const Page = () => {
     return (
         <C.Container>

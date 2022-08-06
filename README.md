@@ -1,11 +1,11 @@
 <h1 align="center">LANDING PAGE REACTJS</h1>
 
-<img src="react-calc-img-gif.gif" alt="Video Projeto" width="100%" height="500">
+<img src="landingpage-gif.gif" alt="Video Projeto" width="100%" height="500">
 
 > 🔎 Landing Page criada com ReactJS e estilizada com Styled Components. <br>
 🗔 Confira a aplicação: https://landing-page-reactjs-26cc5lv3m-klausmorotti.vercel.app/ <br>
 
-## Explicação
+## 📄 Explicação
 A landing page foi desenvolvida com base em um layout visto no site NicePage onde me inspirei para cria-la, sendo meu primeiro projeto com tecnologia ReactJS.
 
 No projeto pude aplicar meus conhecimentos com estilização utilizando da biblioteca Styled Components e também aprendi muito sobre a estruturação de componentes no ReactJS.
